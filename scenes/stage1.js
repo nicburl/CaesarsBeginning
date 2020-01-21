@@ -10,4 +10,7 @@ class Stage1 extends Phaser.Scene {
   create () {
 
   }
+  update(){
+    
+  }
 };

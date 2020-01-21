@@ -9,4 +9,8 @@ class Story1 extends Phaser.Scene {
   create () {
 
   }
+
+  update(){
+    
+  }
 };

@@ -3,5 +3,11 @@ let config =  {
   parent: 'phaser-example',
   width: 800,
   height: 600,
+  physics: {
+        default: 'arcade',
+        arcade: {
+            debug: false
+        }
+    },
   scene:[Stage1, Story1]
 };
